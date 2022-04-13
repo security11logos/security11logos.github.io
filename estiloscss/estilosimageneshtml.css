@@ -1,0 +1,17 @@
+.imagenestitu {
+    font-size: 200%;
+    color: aliceblue;
+  }
+  body {
+    margin: 3%;
+    background-color: rgb(17, 27, 24);
+  }
+  .h2 {
+    color: aliceblue;
+  }
+  .p1 {
+    color: aliceblue;
+  }
+  a:hover {
+    color: tomato;
+  }
